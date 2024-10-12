@@ -3,5 +3,10 @@ public class Main {
         System.out.println("Hello world!");
     }
    // khanh
-    // khanh com bat lan dau
+    //khanh com bat lan dau
+   public class MyApplication {
+       public static void main(String[] args) {
+           //SpringApplication.run(MyApplication.class, args);
+       }
+   }
 }
